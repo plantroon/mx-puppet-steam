@@ -16,7 +16,7 @@
     "command-line-usage": "^6.1.1",
     "gif-encoder": "^0.7.2",
     "js-yaml": "^4.0.0",
-    "mx-puppet-bridge": "0.1.4",
+    "mx-puppet-bridge": "0.1.6",
     "steam-user": "^4.19.2",
     "steamcommunity": "3.42.0",
     "steamid": "1.1.3",
